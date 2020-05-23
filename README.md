@@ -18,13 +18,13 @@ License
 
 I licensed this under [Creative Commons Attribution-NonCommercial 4.0](https://creativecommons.org/licenses/by-nc/4.0/), roughly meaning **you can**:
 
-    - copy and redistribute the material in any medium or format
-    - remix, transform, and build upon the material
+- copy and redistribute the material in any medium or format
+- remix, transform, and build upon the material
 
 **provided that you**:
 
-    - give appropriate credit, provide a link to the license, and indicate if changes were made
-    - don't earn money from this or derivative works
+- give appropriate credit, provide a link to the license, and indicate if changes were made
+- don't earn money from this or derivative works
 
 Credits
 ---
